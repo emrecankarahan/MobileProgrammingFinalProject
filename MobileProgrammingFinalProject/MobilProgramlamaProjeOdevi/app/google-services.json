@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206203787069",
+    "project_id": "mobilprogramlamaprojeodevi",
+    "storage_bucket": "mobilprogramlamaprojeodevi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206203787069:android:e8292e5c56f2fe58369754",
+        "android_client_info": {
+          "package_name": "com.example.mobilprogramlamaprojeodevi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206203787069-tp82c4jbej5o10r6b1r5740smsn32uh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7wTxb36NgB5mcZbppXgpxuJG57az_IoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206203787069-tp82c4jbej5o10r6b1r5740smsn32uh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
